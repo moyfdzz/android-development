@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button1">FALSE</string>
+    <string name="button2">TRUE</string>
+    <string name="btn_next">NEXT></string>
+    <string name="Home_text">Bienvenido Empieza a aprender Python y sube de nivel para tus clases TEC21 </string>
+    <string name="home_btn_aprende">APRENDE</string>
+    <string name="home_btn_quiz">QUIZ</string>
+    <string name="titleFunctions">Funciones</string>
+    <string name="codeResult">RES</string>
+    <string name="pythonCode">def():</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- RunFragment -->
+    <string name="operator">OP</string>
+    <string name="dato1">dato1</string>
+    <string name="dato2">dato2</string>
+    <string name="run">Run</string>
+</resources>

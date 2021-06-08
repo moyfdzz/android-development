@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CourtFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- BASKETBALL FRAGMENT -->
+    <!-- Team A -->
+    <string name="team_a">Team A</string>
+    <string name="TAScore">0</string>
+    <string name="TA3Points">+3 Points</string>
+    <string name="TA2Points">+2 Points</string>
+    <string name="TAFreeThrow">Free throw</string>
+
+    <!-- Team B -->
+    <string name="team_b">Team B</string>
+    <string name="TBScore">0</string>
+    <string name="TB3Points">+3 Points</string>
+    <string name="TB2Points">+2 Points</string>
+    <string name="TBFreeThrow">Free throw</string>
+
+    <!-- Reset Button -->
+    <string name="reset">Reset</string>
+
+    <!-- SOCCER FRAGMENT -->
+    <string name="TAGoal">Goal</string>
+    <string name="TBGoal">Goal</string>
+
+    <!-- INITIAL FRAGMENT -->
+    <string name="basketballDescription">Basketball ball</string>
+    <string name="soccerDescription">Soccer ball</string>
+</resources>

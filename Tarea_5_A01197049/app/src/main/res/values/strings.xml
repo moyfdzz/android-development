@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea_5_A01197049</string>
+    <string name="notas_rapidas">Notas rápidas</string>
+    <string name="ETHint">Escriba aquí su nota...</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>

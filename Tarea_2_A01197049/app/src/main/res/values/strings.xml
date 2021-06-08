@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="trueButton">TRUE</string>
+    <string name="falseButton">FALSE</string>
+    <string name="nextButton">NEXT></string>
+    <string-array name="questions">
+        <item>The unicorn is the national animal of Scotland</item>
+        <item>Australia is wider than the moon</item>
+        <item>Thomas Edison discovered gravity</item>
+        <item>An octopus has three hearts</item>
+        <item>There are two parts of the body that can not heal themselves</item>
+    </string-array>
+</resources>

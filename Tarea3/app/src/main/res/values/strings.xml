@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea 3</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="count">Count</string>
+    <string name="counter">0</string>
+    <string name="hello_act2">Hello</string>
+    <string name="counter_act2">0</string>
+    <string name="textViewNCV_act2">New counter value:</string>
+</resources>

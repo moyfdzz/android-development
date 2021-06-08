@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/initial">
+
+    <fragment
+        android:id="@+id/initial"
+        android:name="com.example.tarea_4_a01197049.Initial"
+        android:label="fragment_initial"
+        tools:layout="@layout/fragment_initial" >
+        <action
+            android:id="@+id/action_initial_to_basketball2"
+            app:destination="@id/basketball2" />
+        <action
+            android:id="@+id/action_initial_to_soccer2"
+            app:destination="@id/soccer2" />
+    </fragment>
+    <fragment
+        android:id="@+id/basketball2"
+        android:name="com.example.tarea_4_a01197049.Basketball"
+        android:label="fragment_basketball"
+        tools:layout="@layout/fragment_basketball" />
+    <fragment
+        android:id="@+id/soccer2"
+        android:name="com.example.tarea_4_a01197049.Soccer"
+        android:label="fragment_soccer"
+        tools:layout="@layout/fragment_soccer" />
+</navigation>

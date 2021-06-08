@@ -1,0 +1,31 @@
+<resources>
+    <!-- Activity: Main Activity-->
+    <string name="app_name">Parcial</string>
+    <string name="B_iniciarQuiz">Iniciar Quiz</string>
+
+    <!-- Activity: Pregunta 1-->
+    <string name="P1_textoNumErrores">Número de errores:</string>
+    <string name="P1_pregunta">How many rings are on the Olympic flag?</string>
+    <string name="P1_respuesta1">None</string>
+    <string name="P1_respuesta2">4</string>
+    <string name="P1_respuesta3">5</string>
+    <string name="P1_respuesta4">7</string>
+
+    <!-- Activity: Pregunta 2-->
+    <string name="P2_pregunta">How did Spider-Man get his powers?</string>
+    <string name="P2_respuesta1">Military experiment gone awry</string>
+    <string name="P2_respuesta2">Born with them</string>
+    <string name="P2_respuesta3">Woke up with them after a strange dream</string>
+    <string name="P2_respuesta4">Bitten by a radioactive spider</string>
+
+    <!-- Activity: Pregunta 3-->
+    <string name="P3_pregunta">What is the name of this symbol: ¶</string>
+    <string name="P3_respuesta1">Fermata</string>
+    <string name="P3_respuesta2">Pilcrow</string>
+    <string name="P3_respuesta3">Interrobang</string>
+    <string name="P3_respuesta4">Biltong</string>
+
+    <!-- Activity: Resultados-->
+    <string name="TV_terminado">Has terminado</string>
+    <string name="TV_numErrores">Te equivocaste:</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fahrenheit to Celsius</string>
+    <string name="cnvButton">CONVERT</string>
+</resources>

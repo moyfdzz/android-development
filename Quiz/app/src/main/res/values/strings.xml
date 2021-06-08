@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="pregunta">¿Quién ganó el SB ayer?</string>
+    <string name="opcionA">KC</string>
+    <string name="opcionB">TB</string>
+</resources>
